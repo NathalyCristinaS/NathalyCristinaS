@@ -31,3 +31,5 @@
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathalyCristinaS&layout=compact&langs_count=7&theme=tokyonight"/>
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NathalyCristinaS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+
+ ![Snake animation](https://github.com/NathalyCristinaS/NathalyCristinaS/blob/output/github-contribution-grid-snake.svg)
