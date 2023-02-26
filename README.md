@@ -1,4 +1,4 @@
-### Hello, I'm Nathaly 🌱
+### Hello, I'm Nathaly 🌿
 
 
 <img src="https://i.imgur.com/VUBtXys.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen/>
