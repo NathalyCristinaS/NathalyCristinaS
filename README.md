@@ -1,5 +1,5 @@
 ### Live long and prosper, I'm Nathaly 🖖
-
+<p align="center">
 
 <img src="https://i.imgur.com/VUBtXys.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen/>
 
