@@ -1,4 +1,5 @@
 <p align="center">
+<h2 align="center">GitHub Readme Stats</h2>
 Live long and prosper, I'm Nathaly 🖖
    
 <p align="right">
