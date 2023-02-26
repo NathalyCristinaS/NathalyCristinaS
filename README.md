@@ -1,7 +1,7 @@
 ### Hello, I'm Nathaly 👋
 
 
-<img src="https://giphy.com/embed/kQ3FSVoJrkYWk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen/>
+<img src="https://i.imgur.com/VUBtXys.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen/>
 
 
 **NathalyCristinaS/NathalyCristinaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
