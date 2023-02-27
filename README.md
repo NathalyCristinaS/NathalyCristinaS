@@ -4,11 +4,11 @@
  <p>
    Meu nome é Nathaly, mas pode me chamar de Nath :)
  
- Sou estudante de Ciência da Computação, uma pessoa curiosa, apaixonada por livros e eterna aprendiz. 
+ Sou estudante de Ciência da Computação, uma pessoa curiosa, apaixonada por livros e eterna aprendiz. Atualmente, trabalho em uma empresa de desenvolvimento de software para farmácias.
  
  Hi, my name is Nathaly but you can call me Nath :)
  
- I'm a computer science student,a curious person, book lover and a eternal learner.
+ I'm a computer science student,a curious person, book lover and a eternal learner. I’m currently working on Alpha7 Software Developer, a company dedicated to the development of software for pharmacies.
  </p> 
  
 <p align="right">
@@ -16,21 +16,6 @@
 <img src="https://i.imgur.com/VUBtXys.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen/>
 
 
-   🔭 I’m currently working on Alpha7 Software Developer
-  
-   🌱 I’m currently learning ...
-   
-  👯 I’m looking to collaborate on ...
- 
-  🤔 I’m looking for help with ...
- 
-  💬 Ask me about ...
- 
-  📫 How to reach me: ...
- 
-  😄 Pronouns: she / her
- 
-  ⚡ Fun fact: ...
 
 <div>
 <a href="https://github.com/NathalyCristinaS">
