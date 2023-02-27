@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center">Live long and prosper, I'm Nathaly 🖖</h2>
+<h2 align="center">Live long and prosper 🖖</h2>
  
  <p>
    Meu nome é Nathaly, mas pode me chamar de Nath :)
