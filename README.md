@@ -2,7 +2,11 @@
 <h2 align="center">Live long and prosper, I'm Nathaly 🖖</h2>
  
  <p>
-   ublebleble
+   Meu nome é Nathaly, mas pode me chamar de Nath :)
+Sou estudante de Ciência da Computação, uma pessoa curiosa, apaixonada por livros e eterna aprendiz. 
+ 
+ Hi, my name is Nathaly but you can call me Nath :)
+I'm a computer science student,a curious person, book lover and a eternal learner.
  </p> 
  
 <p align="right">
