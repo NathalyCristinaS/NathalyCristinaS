@@ -13,7 +13,13 @@ Atualmente, focada em dominar COBOL, HTML, CSS e JavaScript, além de aprender f
  Hi, my name is Nathaly but you can call me Nath :)
  
  I'm a computer science student,a curious person, book lover and a eternal learner. I’m currently working on Alpha7 Software Developer, a company dedicated to the development of software for pharmacies.
- </p> 
+ <p>
+Future front-end developer, seeking to improve my skills and knowledge in creating charming web interfaces. 
+<p>
+Currently, focused on mastering COBOL, HTML, CSS and JavaScript, in addition to learning frameworks such as React and Bootstrap. I am passionate about design and usability, always seeking to create user-friendly experiences 🥰
+
+
+</p> 
  
 <p align="right">
 
